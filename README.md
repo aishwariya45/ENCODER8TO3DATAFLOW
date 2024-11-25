@@ -57,7 +57,6 @@ endmodule
 
 
 
-
 /
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
