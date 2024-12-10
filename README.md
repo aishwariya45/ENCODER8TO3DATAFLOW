@@ -47,6 +47,8 @@ Figure 02  Encoder 8 * 3
 4.	Create nodes for inputs and outputs to generate the timing diagram.
 
 5.	For different input combinations generate the timing diagram.
+
+
 **PROGRAM**
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
@@ -75,8 +77,7 @@ endmodule
 
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-
-![Screenshot 2024-11-15 073730](https://github.com/user-attachments/assets/ebce344b-6ad4-4c67-aee2-3f89228381ba)
+![Screenshot 2024-12-10 113803](https://github.com/user-attachments/assets/300f2085-dfff-4621-a2a1-47d884330fa2)
 
 
 
