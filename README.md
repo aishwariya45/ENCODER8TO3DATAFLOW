@@ -7,6 +7,8 @@ To implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validating 
 **SOFTWARE REQUIRED:** Quartus prime
 
 **THEORY**
+![image](https://github.com/user-attachments/assets/2291ad57-32cc-4e88-9bda-1655731fd9a4)
+
 
 **Encoder 8 To 3**
 
